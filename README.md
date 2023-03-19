@@ -19,7 +19,7 @@ Health monitoring syetem (Health Watch) is the implementation of an engineering 
     Home screen that shows the user's basic readings, a graph and notifications when readings exceed acceptable limits.
     The application can be navigated by  bottom menu and the fly-out side menu</br>
     <img width="38%" src=https://user-images.githubusercontent.com/65900710/226210258-5723eced-97df-4fdd-af73-b41559d08f45.png>
-    <img width="37.5%" src=https://user-images.githubusercontent.com/65900710/226210312-919f4fb2-f3ad-452c-b79a-e061db0876e3.png>
+    <img width="37%" src=https://user-images.githubusercontent.com/65900710/226210312-919f4fb2-f3ad-452c-b79a-e061db0876e3.png>
 
 
   </p>  
