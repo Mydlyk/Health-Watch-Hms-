@@ -17,7 +17,10 @@ Health monitoring syetem (Health Watch) is the implementation of an engineering 
     Password recovery screen</br>
     <img width="38%" src=https://user-images.githubusercontent.com/65900710/226199246-f57d90e7-d62a-4430-b4e3-eba26a1f5e7c.jpg></br>
     Home screen that shows the user's basic readings, a graph and notifications when readings exceed acceptable limits.
-    Po
+    The application can be navigated by  bottom menu and the fly-out side menu</br>
+    <img width="38%" src=https://user-images.githubusercontent.com/65900710/226210258-5723eced-97df-4fdd-af73-b41559d08f45.png>
+    <img width="38%" src=https://user-images.githubusercontent.com/65900710/226210312-919f4fb2-f3ad-452c-b79a-e061db0876e3.png>
+
 
   </p>  
   </div>
