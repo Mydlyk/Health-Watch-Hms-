@@ -30,10 +30,10 @@ Detailed readings screen</br>
 Associated users screen</br>
 <img width="38%" src=https://user-images.githubusercontent.com/65900710/226210880-ebb4e456-8e6a-4d31-a4bb-912e6a2d14f9.png></br>
 Guardian details screen</br>
-<img width="38%" src=https://user-images.githubusercontent.com/65900710/226211006-e20b5bc1-f998-4624-abbe-9553d9f154a4.png>
-<img width="38%" src=https://user-images.githubusercontent.com/65900710/226211009-000da90d-98c3-4256-a5df-315da3b7cf99.png>
-<img width="38%" src=https://user-images.githubusercontent.com/65900710/226211011-4cb1abfb-6cbe-471a-bbd1-2298e0d47ba7.png></br>
-Pupil details screen</br>
+<img width="33%" src=https://user-images.githubusercontent.com/65900710/226211006-e20b5bc1-f998-4624-abbe-9553d9f154a4.png>
+<img width="33%" src=https://user-images.githubusercontent.com/65900710/226211009-000da90d-98c3-4256-a5df-315da3b7cf99.png>
+<img width="33%" src=https://user-images.githubusercontent.com/65900710/226211011-4cb1abfb-6cbe-471a-bbd1-2298e0d47ba7.png></br>
+Pupil details screens</br>
 <img width="38%" src=https://user-images.githubusercontent.com/65900710/226211106-41f7031c-747f-4b45-a432-70b3bab5ab30.png></br>
 Users enter the connection through a randomly generated code.</br>
 <img width="38%" src=https://user-images.githubusercontent.com/65900710/226211223-da4f5469-3ac6-4ee8-b01f-29a72d2675d9.png></br>
