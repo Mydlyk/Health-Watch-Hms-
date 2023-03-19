@@ -19,7 +19,31 @@ Health monitoring syetem (Health Watch) is the implementation of an engineering 
     Home screen that shows the user's basic readings, a graph and notifications when readings exceed acceptable limits.
     The application can be navigated by  bottom menu and the fly-out side menu</br>
     <img width="38%" src=https://user-images.githubusercontent.com/65900710/226210258-5723eced-97df-4fdd-af73-b41559d08f45.png>
-    <img width="37.5%" src=https://user-images.githubusercontent.com/65900710/226210312-919f4fb2-f3ad-452c-b79a-e061db0876e3.png>
+    <img width="37.5%" src=https://user-images.githubusercontent.com/65900710/226210312-919f4fb2-f3ad-452c-b79a-e061db0876e3.png></br>
+    Depending on the role of the user, the menu differs.</br>
+    <img width="38%" src=https://user-images.githubusercontent.com/65900710/226210545-44afa46b-07e7-413c-aa05-371507a63798.png></br>
+    Doctor details screen</br>
+    
+<img width="38%" src=https://user-images.githubusercontent.com/65900710/226210670-47a2fb9a-8ec9-41f0-807b-8c8bfc74218b.jpg></br>
+Detailed readings screen</br>
+<img width="38%" src=https://user-images.githubusercontent.com/65900710/226210753-1277ecd0-f872-49f1-ac1a-e39dae0779a0.png></br>
+Associated users screen</br>
+<img width="38%" src=https://user-images.githubusercontent.com/65900710/226210880-ebb4e456-8e6a-4d31-a4bb-912e6a2d14f9.png></br>
+Guardian details screen</br>
+<img width="38%" src=https://user-images.githubusercontent.com/65900710/226211006-e20b5bc1-f998-4624-abbe-9553d9f154a4.png>
+<img width="38%" src=https://user-images.githubusercontent.com/65900710/226211009-000da90d-98c3-4256-a5df-315da3b7cf99.png>
+<img width="38%" src=https://user-images.githubusercontent.com/65900710/226211011-4cb1abfb-6cbe-471a-bbd1-2298e0d47ba7.png></br>
+Pupil details screen</br>
+<img width="38%" src=https://user-images.githubusercontent.com/65900710/226211106-41f7031c-747f-4b45-a432-70b3bab5ab30.png></br>
+Users enter the connection through a randomly generated code.</br>
+<img width="38%" src=https://user-images.githubusercontent.com/65900710/226211223-da4f5469-3ac6-4ee8-b01f-29a72d2675d9.png></br>
+Account info screen</br>
+<img width="38%" src=https://user-images.githubusercontent.com/65900710/226211314-0bb869c9-0e7b-4e3d-ada9-656902909544.png></br>
+Edit profile screen</br>
+
+
+
+
 
 
   </p>  
