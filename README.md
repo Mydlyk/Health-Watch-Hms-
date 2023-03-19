@@ -12,7 +12,12 @@ Health monitoring syetem (Health Watch) is the implementation of an engineering 
     <img width="38%" src=https://user-images.githubusercontent.com/65900710/226198984-df1db4d9-652a-4675-88fe-11c578e26b43.jpg>
     <img width="38%" src=https://user-images.githubusercontent.com/65900710/226198554-4e4c5480-e4d9-4ea6-9f4f-93affc71e42a.jpg>
     </br>
-    There are four user roles in the application. Guardian, pupil and patient use the first screen to register. The fourth role doctor has an additional registration      screen.
+    There are four user roles in the application. Guardian, pupil and patient use the first screen to register. The fourth role doctor has an additional registration      screen.</br>
+    <img width="38%" src=https://user-images.githubusercontent.com/65900710/226199128-2ba68d3e-2fef-49b6-bd01-b12d144143cf.png></br>
+    Password recovery screen
+    <img width="38%" src=https://user-images.githubusercontent.com/65900710/226199246-f57d90e7-d62a-4430-b4e3-eba26a1f5e7c.jpg></br>
+    Home screen that shows the user's basic readings, a graph and notifications when readings exceed acceptable limits.
+
   </p>  
   </div>
 
