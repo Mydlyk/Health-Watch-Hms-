@@ -2,5 +2,5 @@ Health monitoring syetem (Health Watch) is the implementation of an engineering 
 
 
 
-![login](https://user-images.githubusercontent.com/65900710/226182589-66d15530-2347-4a82-8921-0c4fb9723e9d.jpg)  ![login](https://user-images.githubusercontent.com/65900710/226182589-66d15530-2347-4a82-8921-0c4fb9723e9d.jpg) 
+![login](https://user-images.githubusercontent.com/65900710/226182589-66d15530-2347-4a82-8921-0c4fb9723e9d.jpg)                                                         ![login](https://user-images.githubusercontent.com/65900710/226182589-66d15530-2347-4a82-8921-0c4fb9723e9d.jpg) 
 Login Screen
