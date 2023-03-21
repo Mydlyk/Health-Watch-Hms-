@@ -42,10 +42,10 @@ Account info screen</br>
 Edit profile screen</br>
 <img width="38%" src=https://user-images.githubusercontent.com/65900710/226598841-b8faf30f-1fa6-47a5-a9ca-7ed36e858497.png></br>
 Patients list</br>
-<img width="24%" src=https://user-images.githubusercontent.com/65900710/226599483-e5de324e-cd29-40cc-8bfb-c0b700e09cf2.png>
-<img width="24%" src=https://user-images.githubusercontent.com/65900710/226599504-e3558caf-96a6-4b0d-938b-ca68b1a711a5.jpg>
-<img width="24%" src=https://user-images.githubusercontent.com/65900710/226599518-3ded8d2c-4e73-4cb2-b618-0ef784cd0850.jpg>
-<img width="24%" src=https://user-images.githubusercontent.com/65900710/226599538-298c9140-fc00-4739-816b-fbd9e7f60a40.jpg></br>
+<img width="33%" src=https://user-images.githubusercontent.com/65900710/226599483-e5de324e-cd29-40cc-8bfb-c0b700e09cf2.png>
+<img width="33%" src=https://user-images.githubusercontent.com/65900710/226599504-e3558caf-96a6-4b0d-938b-ca68b1a711a5.jpg>
+<img width="33%" src=https://user-images.githubusercontent.com/65900710/226599518-3ded8d2c-4e73-4cb2-b618-0ef784cd0850.jpg>
+<img width="33%" src=https://user-images.githubusercontent.com/65900710/226599538-298c9140-fc00-4739-816b-fbd9e7f60a40.jpg></br>
 Patient information screens
 
 
