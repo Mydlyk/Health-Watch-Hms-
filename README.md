@@ -46,7 +46,20 @@ Patients list</br>
 <img width="33%" src=https://user-images.githubusercontent.com/65900710/226599504-e3558caf-96a6-4b0d-938b-ca68b1a711a5.jpg>
 <img width="33%" src=https://user-images.githubusercontent.com/65900710/226599518-3ded8d2c-4e73-4cb2-b618-0ef784cd0850.jpg>
 <img width="33%" src=https://user-images.githubusercontent.com/65900710/226599538-298c9140-fc00-4739-816b-fbd9e7f60a40.jpg></br>
-Patient information screens
+Patient information screens</br>
+<img width="38%" src=https://user-images.githubusercontent.com/65900710/226600547-dd68cfde-9261-489a-8f87-ee7fa988f47a.jpg></br>
+Settings</br>
+<img width="38%" src=https://user-images.githubusercontent.com/65900710/226600888-8c490380-18b7-4e6b-99df-ed46f9a2060b.png></br>
+Delete account</br>
+<img width="38%" src=https://user-images.githubusercontent.com/65900710/226601205-0a96881a-fac9-4af1-a920-1a6f60c4686b.jpg></br>
+Change password</br>
+<img width="33%" src=https://user-images.githubusercontent.com/65900710/226601839-570df6bc-461a-4098-8df3-0f4bbe1c09c2.jpg>
+<img width="33%" src=https://user-images.githubusercontent.com/65900710/226601851-f53ee299-5192-4fab-a29c-2616c08d158b.jpg>
+<img width="33%" src=https://user-images.githubusercontent.com/65900710/226601858-cba7ea37-b910-42c9-8b29-4ca4d99eb4bc.jpg>
+<img width="33%" src=https://user-images.githubusercontent.com/65900710/226601867-4b327a35-6485-4bc1-b3ac-60d7720da47e.jpg>
+<img width="33%" src=https://user-images.githubusercontent.com/65900710/226601874-bd14b0f3-328b-411f-9cbe-0310beaf3733.jpg>
+<img width="33%" src=https://user-images.githubusercontent.com/65900710/226601879-aadd9e3c-db2d-454b-8ba2-5f36a6ad86e0.jpg></br>
+The app includes notifications to inform you of the status of the action.</br>
 
 
 
