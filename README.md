@@ -69,4 +69,5 @@ The app includes notifications to inform you of the status of the action.</br>
 
   </p>  
   </div>
+  There are few unfinished elements in the application that need improvement. Due to the short deadline for its implementation, however, I have tried to maintain it according to the rules of clean code.
 
